@@ -12,6 +12,7 @@ All the volunteers working in a region will be able to communicate with each oth
 FUTURE PROSPECT
 
 All the information which we store can be used for any disaster in the future. With our database, prejudgment of the number of relief centres, food packets and manpower needed can be easily made which will be very useful. The better we are prepared, the better we can minimize the damage.
+We plan to show our results and gain collaboration from government, and thereby we expect most of the NGOs and various other organisations to work with us in near future.
 
 ADD ON  
 
