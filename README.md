@@ -7,7 +7,7 @@ Our aim is giving quality assistance in the aftermath of a natural disaster. We 
 We believe, by doing this, all of us will be able to furnish better assistance to the needy.
 
 We will store information about the contact details of people willing to volunteer, money, food packets and medicines donated by people, various governmental and non-governmental agencies, space available in all the relief centres and hospitals. This will help to manage the relief operations more efficiently.
-All the volunteers working in a region will be able to communicate with each other easily with our platform.
+All the volunteers working in a region will be able to communicate with each other easily with our platform.(via messing service available in our platform)
 
 FUTURE PROSPECT
 
