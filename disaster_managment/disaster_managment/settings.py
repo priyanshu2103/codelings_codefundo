@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'donate_money',
     'donate_goods',
+    'accounts',
 ]
 
 MIDDLEWARE = [
