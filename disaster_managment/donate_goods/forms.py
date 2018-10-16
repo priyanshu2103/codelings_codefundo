@@ -23,4 +23,4 @@ class RawGoodsForm(forms.Form):
     Water = forms.IntegerField(widget=forms.NumberInput)
     Packets_of_FoodItems = forms.IntegerField(widget=forms.NumberInput)
     Medicines = forms.CharField(widget=forms.Textarea(attrs={"placeholder": "enter the name, use and quantity of each medicine",}))
-    Date = forms.DateField(widget=forms.DateTimeInput())
+    Date = forms.DateField(widget=forms.DateTimeInput(attrs={"placeholder":"date in yyyy-mm--dd",}))
