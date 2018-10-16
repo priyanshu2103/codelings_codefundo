@@ -19,6 +19,7 @@ from donate_money import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('donate_money.urls'))
+    path('', include('donate_money.urls')),
+    path('', include('donate_goods.urls')),
     #path('donate_money/',views.donate_money_view,name="donate_urls")
 ]
