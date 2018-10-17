@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'donate_money',
     'donate_goods',
     'accounts',
+    'homepage',
 ]
 
 MIDDLEWARE = [
