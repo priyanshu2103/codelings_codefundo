@@ -16,12 +16,15 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path, include
 from donate_money import views
-from accounts.views import login_view, logout_view, register_as_group_view, register_as_volunteer_view
+from accounts.views import login_view, logout_view, register,register_as_volunteer
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('donate_money.urls')),
     path('', include('donate_goods.urls')),
+    path('register/', register, name='register'),
+    path('register_as_volunteer/', register_as_volunteer, name='register_as_volunteer'),
     path('login/', login_view, name='login'),
     path('logout/', logout_view, name='logout'),
+    path('', include('homepage.urls'))
 ]
