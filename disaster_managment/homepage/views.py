@@ -7,6 +7,5 @@ from django.shortcuts import render,redirect
 def main_page(request):
     return render(request, 'homepage/main_page.html')
 
-def main_page(request):
-    return render(request,'home_page/main_page.html')
+
 
