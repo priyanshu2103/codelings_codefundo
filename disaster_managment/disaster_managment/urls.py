@@ -26,5 +26,9 @@ urlpatterns = [
     path('register_as_volunteer/', register_as_volunteer, name='register_as_volunteer'),
     path('login/', login_view, name='login'),
     path('logout/', logout_view, name='logout'),
+<<<<<<< HEAD
     path('', include('homepage.urls'))
+=======
+    path('',include('homepage.urls')),
+>>>>>>> f26ce483479da46eca88e65c3b42c5e33414ceef
 ]
